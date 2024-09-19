@@ -8,5 +8,11 @@ rappresenta il mio primoapproccio a questo linguaggio di programmazione.
 * HTML
 * CSS
 * JavaScript
-## You can try it here:
-💥<a href="https://count-everything.netlify.app/">PROVALO QUI</a>💥
+## Contatti e Link:
+
+- **LinkedIn**  : [Salvatore Di Dio](https://www.linkedin.com/in/salvatore-di-dio-/)
+
+- **Email**  : didiosalvatore25@gmail.com
+- **Sito** : [PUOI PROVARLO QUI](https://count-everything.netlify.app/)
+
+
